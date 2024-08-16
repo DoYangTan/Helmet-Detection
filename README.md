@@ -1,4 +1,9 @@
-# Helmet-detection
-This is my project for participating in the 2023 Computer Design Competition Edge Intelligence Challenge
+# 基于NanoNet的安全帽检测
+- 该项目用于参加2023年大学生计算机设计大赛
+- 2023/06 获得省级三等奖
 
-# 暂时不知道怎么将整个文件夹进行上传
+# 说明
+- 项目使用NanoNet进行安全帽的检测识别
+- 使用Dokcer进行部署
+
+联系方式：HBU_ZhangChen@163.com
